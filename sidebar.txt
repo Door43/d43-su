@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[su:home|Door43 (su)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-su|d43-su repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-su/archive/master.zip|d43-su.zip]]
+
+**Recent Changes**
+{{changes>ns = su}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/su|Ethnologue data]]
+
